@@ -1,40 +1,49 @@
+### Hi there 👋 This is Yixuan 
+- 🔭 I’m a Ph.D candidate using AI related tools solving Computer Vision problems.
+- 👯 I’m looking to collaborate every thing related to Pattern Recongnition in cluding _Medical_, _Financial_, _Industrial_, and _Agricultural_ et al.
+- 🔧 I'm very interesed in how the acedemic research related to industrial manufacture improving.
+- 😄 Contact with me if you have any questions about my works or willings for colaboration.
+
+---
 
 
-<!--
-**lyu-yx/lyu-yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reach me at: 
+[<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HZ | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+[<img align="left" alt="HZ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://github.com/lyu-yx
+[linkedin]: https://www.linkedin.com/in/yixuan-lyu-90bb471a6
+[GoogleScholar]: https://scholar.google.com/citations?user=D00oCtkAAAAJ&hl=zh-CN&oi=ao
 
-### Hi there 👋 I'm [Yixuan Lyu](https://github.com/lyu-yx) 
-💬 How to reach me: lyu.yixuan@nyu.edu.  
 
-<!--
+<img align="left" alt="Yixuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lyu-yx&show_icons=true&hide_border=true" />
 
-Here are some ideas to get you started:
-- 🌱 I’m currently interested in multi-modal learning.🔭
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me: [Google scholar](https://scholar.google.com/citations?user=76_hOG0AAAAJ&hl=zh-CN&oi=sra)
-- 📫 How to reach me: you can email me by zhangxuying1004@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyu-yx&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lyu-yx&&count_private=true&show_icons=false&theme=neon" />
-</div>
 
-<h1 align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/lyu-yx/count.svg" />
-</h1>
+
+---
+
+
+### I'm coding with:
+
+<p align="left">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/openjdk-3776AB.svg?&style=flat&logo=OpenJDK&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=C&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/matlab-3776AB.svg?&style=flat&logo=matrix&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-3776AB.svg?&style=flat&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-3776AB.svg?&style=flat&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-3776AB.svg?&style=flate&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/googlecloud-3776AB.svg?&style=flat&logo=googlecloud&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/googlecolab-3776AB.svg?&style=flat&logo=googlecolab&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/openai-3776AB.svg?&style=flat&logo=openai&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/pytorch-3776AB.svg?&style=flat&logo=pytorch&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/tensorflow-3776AB.svg?&style=flat&logo=tensorflow&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/keras-3776AB.svg?&style=flat&logo=keras&logoColor=white" height="25"/>
+
+</p>
+
+
