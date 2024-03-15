@@ -13,6 +13,8 @@
 [<img align="left" alt="HZ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 
+---
+
 [website]: https://github.com/lyu-yx
 [linkedin]: https://www.linkedin.com/in/yixuan-lyu-90bb471a6
 [GoogleScholar]: https://scholar.google.com/citations?user=D00oCtkAAAAJ&hl=zh-CN&oi=ao
