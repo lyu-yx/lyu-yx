@@ -1,8 +1,8 @@
 # Hi there, this is Yixuan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🔭 I’m a Ph.D candidate using AI related tools solving Computer Vision problems.
-- 👯 I’m looking to collaborate every thing related to Pattern Recongnition in cluding _Medical_, _Financial_, _Industrial_, and _Agricultural_ et al.
-- 🔧 I'm very interesed in how the acedemic research related to industrial manufacture improving.
-- 😄 Contact with me if you have any questions about my works or willings for colaboration.
+- 🔭 I am a Ph.D. candidate utilizing AI-related tools to address challenges in Computer Vision.
+- 👯 I am seeking opportunities for collaboration to implement specialized applications in fields such as Medicine, Finance, Industry, and Agriculture, among others.
+- 🔧 I am highly interested in understanding how academic research contributes to improvements in industrial manufacturing.
+- 😄 Please feel free to contact me if you have any questions about my work or are interested in discussing potential collaboration opportunities.
 
 
 
@@ -25,7 +25,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/openjdk-3776AB.svg?&style=flat&logo=OpenJDK&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat&logo=C&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/C language-3776AB.svg?&style=flat&logo=C&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/matlab-3776AB.svg?&style=flat&logo=matrix&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-3776AB.svg?&style=flat&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/jupyter-3776AB.svg?&style=flat&logo=jupyter&logoColor=white" height="25"/>
