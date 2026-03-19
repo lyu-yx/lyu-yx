@@ -15,10 +15,10 @@
 
 
 
-<img align="left" alt="Yixuan's Github Stats"
+<!-- <img align="left" alt="Yixuan's Github Stats"
 src="https://github-readme-stats-rho-ten-50.vercel.app/api?username=lyu-yx&show_icons=true&hide_border=true&cache_seconds=3600" />
 
-[![status](https://github-readme-stats-rho-ten-50.vercel.app/api/top-langs/?username=lyu-yx&layout=compact&hide_border=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+[![status](https://github-readme-stats-rho-ten-50.vercel.app/api/top-langs/?username=lyu-yx&layout=compact&hide_border=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
