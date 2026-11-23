@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="158" viewBox="0 0 840 158" role="img" aria-labelledby="banner-title banner-description">
+  <title id="banner-title">AI Research &amp; Engineering</title>
+  <desc id="banner-description">A navy banner with three overlapping colored orbits.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="840" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102133"/>
+      <stop offset=".58" stop-color="#0C1D2E"/>
+      <stop offset="1" stop-color="#162A3F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="709" cy="79" r="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#459AAB" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#459AAB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".64" fill="#B5DDF9"/>
+    </pattern>
+    <clipPath id="banner-shape">
+      <rect x="0" y="0" width="840" height="158" rx="13"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#banner-shape)">
+    <rect width="840" height="158" fill="url(#background)"/>
+    <rect x="495" width="345" height="158" fill="url(#glow)"/>
+    <path d="M540 0H840V158H520Z" fill="url(#dots)" opacity=".13"/>
+    <path d="M590 79H820M704 15V143" fill="none" stroke="#90ACBF" stroke-opacity=".22" stroke-dasharray="2 5"/>
+    <g fill="none" stroke-width="1.4">
+      <ellipse cx="704" cy="79" rx="89" ry="37" stroke="#81C6FB" transform="rotate(-24 704 79)"/>
+      <ellipse cx="704" cy="79" rx="89" ry="37" stroke="#70D1C9" transform="rotate(24 704 79)"/>
+      <ellipse cx="704" cy="79" rx="64" ry="37" stroke="#BBC2FF" stroke-opacity=".78" transform="rotate(90 704 79)"/>
+    </g>
+    <circle cx="704" cy="79" r="7" fill="#A0DFEE" opacity=".13"/>
+    <circle cx="704" cy="79" r="3.5" fill="#D3FBF6"/>
+    <circle cx="625" cy="103" r="4" fill="#9BCFFF"/>
+    <circle cx="784" cy="105" r="4" fill="#83DFD5"/>
+    <circle cx="704" cy="15" r="3.5" fill="#C5C8FF"/>
+    <rect x="40" y="43" width="36" height="2" rx="1" fill="#8ADFD6"/>
+    <text x="40" y="100" fill="#F1F7FE" font-family="Arial, Helvetica, sans-serif" font-size="41" font-weight="700" letter-spacing="-1.2">AI Research &amp; Engineering</text>
+  </g>
+  <rect x=".5" y=".5" width="839" height="157" rx="12.5" fill="none" stroke="#3A566D"/>
+</svg>

@@ -1,10 +1,10 @@
-# Yixuan Lyu
+![AI Research & Engineering](./profile/research-banner.svg)
 
 **Ph.D. candidate at Beihang University** · M.S. in Computer Engineering, New York University
 
 I work on multimodal foundation models, agentic reinforcement learning, and visual perception.
 
-[Google Scholar][scholar] · [LinkedIn][linkedin] · [GitHub Contributions](https://github.com/lyu-yx#contribution-activity)
+[Google Scholar][scholar] · [LinkedIn][linkedin]
 
 ## Research interests
 
@@ -21,12 +21,7 @@ I work on multimodal foundation models, agentic reinforcement learning, and visu
 | **ACUMEN / COD-TAX** | ECCV 2024 | Textual attributes and eye fixation for camouflaged object segmentation. | [Paper][acumen-paper] · [Code][acumen-code] |
 | **UEDG** | IEEE TMM 2024 | Uncertainty and edge guidance for pixel-level detection. | [Paper][uedg-paper] · [Code][uedg-code] |
 
-## GitHub activity
-
-<img src="./profile/stats.svg" width="350" alt="GitHub Stats: 48 stars, 13 original repositories, 7 pull requests opened, and 6 issues opened">
-<img src="./profile/top-langs.svg" width="350" alt="Top Languages by primary language: Python 9, Java 2, JavaScript 1 repositories">
-
-<sub>Public GitHub snapshot · 23 Nov 2026. Language counts use the primary language of each non-fork repository with code.</sub>
+[![Stars earned](https://img.shields.io/github/stars/lyu-yx?style=flat&label=Stars&labelColor=30363d&color=315b85)](https://github.com/lyu-yx?tab=repositories&sort=stargazers) [![GitHub followers](https://img.shields.io/github/followers/lyu-yx?style=flat&label=Followers&labelColor=30363d&color=315b85)](https://github.com/lyu-yx?tab=followers) · [Contribution history](https://github.com/lyu-yx#contribution-activity)
 
 [scholar]: https://scholar.google.com/citations?user=D00oCtkAAAAJ
 [linkedin]: https://www.linkedin.com/in/yixuan-lyu-90bb471a6
