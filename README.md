@@ -45,8 +45,8 @@ Vision–language modeling, video generation, model distillation, and multi-step
 ---
 
 <p>
-  <a href="https://github.com/lyu-yx#contribution-activity"><img src="https://github-stats-extended.vercel.app/api?username=lyu-yx&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;custom_title=GitHub%20Stats&amp;card_width=375&amp;line_height=20&amp;hide=contribs&amp;ring_color=3565a4&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="GitHub statistics and activity rank"></a>
-  <a href="https://github.com/lyu-yx?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyu-yx&amp;layout=compact&amp;langs_count=6&amp;card_width=350&amp;custom_title=Top%20Languages&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="Top languages in public repositories"></a>
+  <a href="https://github.com/lyu-yx#contribution-activity"><img src="https://github-stats-extended.vercel.app/api?username=lyu-yx&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;custom_title=GitHub%20Stats&amp;card_width=375&amp;line_height=24&amp;hide=contribs&amp;ring_color=3565a4&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="GitHub statistics and activity rank"></a>
+  <a href="https://github.com/lyu-yx?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyu-yx&amp;layout=compact&amp;langs_count=6&amp;card_width=375&amp;custom_title=Top%20Languages&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="Top languages in public repositories"></a>
 </p>
 
 [Contribution history](https://github.com/lyu-yx#contribution-activity)
