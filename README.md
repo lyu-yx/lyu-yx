@@ -1,4 +1,4 @@
-# Hi, I’m Yixuan 👋
+# Hi, I’m Yixuan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="Waving hand">
 
 - 🔭 I’m a Ph.D. candidate at Beihang University working across computer vision and AI.
 - 🤝 I’m open to collaborations in healthcare, finance, industry, and agriculture.
@@ -45,8 +45,8 @@ Vision–language modeling, video generation, model distillation, and multi-step
 ---
 
 <p>
-  <a href="https://github.com/lyu-yx#contribution-activity"><img src="https://github-stats-extended.vercel.app/api?username=lyu-yx&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;custom_title=GitHub%20Stats&amp;card_width=375&amp;line_height=20&amp;hide=contribs&amp;ring_color_dark=88bfff&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;bg_color_dark=111c2a&amp;border_color_dark=2a394b&amp;title_color_dark=edf4fb&amp;text_color_dark=c4d0de&amp;border_radius=9&amp;disable_animations=true" width="49%" align="top" alt="GitHub statistics and activity rank"></a>
-  <a href="https://github.com/lyu-yx?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyu-yx&amp;layout=compact&amp;langs_count=6&amp;card_width=350&amp;custom_title=Top%20Languages&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;bg_color_dark=111c2a&amp;border_color_dark=2a394b&amp;title_color_dark=edf4fb&amp;text_color_dark=c4d0de&amp;border_radius=9&amp;disable_animations=true" width="49%" align="top" alt="Top languages in public repositories"></a>
+  <a href="https://github.com/lyu-yx#contribution-activity"><img src="https://github-stats-extended.vercel.app/api?username=lyu-yx&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;custom_title=GitHub%20Stats&amp;card_width=375&amp;line_height=20&amp;hide=contribs&amp;ring_color=3565a4&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="GitHub statistics and activity rank"></a>
+  <a href="https://github.com/lyu-yx?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyu-yx&amp;layout=compact&amp;langs_count=6&amp;card_width=350&amp;custom_title=Top%20Languages&amp;theme=light_github&amp;bg_color=ffffff&amp;border_color=d4deeb&amp;title_color=223a55&amp;text_color=394b60&amp;icon_color=3565a4&amp;border_radius=9" width="49%" align="top" alt="Top languages in public repositories"></a>
 </p>
 
 [Contribution history](https://github.com/lyu-yx#contribution-activity)
