@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 154" width="350" height="154" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Public activity: 48 stars earned across 13 original repositories, 7 pull requests and 6 issues opened.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .title { fill: #f0f6fc; font-size: 17px; font-weight: 650; }
+    .number { fill: #79b8ff; font-size: 21px; font-weight: 650; }
+    .label { fill: #b7c5d4; font-size: 13px; }
+  </style>
+  <rect x="0.5" y="0.5" width="349" height="153" rx="10" fill="#0d1622" stroke="#314255"/>
+  <text class="title" x="20" y="32">GitHub Stats</text>
+  <text class="number" x="20" y="72">48</text>
+  <text class="label" x="20" y="91">Stars earned</text>
+  <text class="number" x="183" y="72">13</text>
+  <text class="label" x="183" y="91">Original repositories</text>
+  <text class="number" x="20" y="121">7</text>
+  <text class="label" x="20" y="140">Pull requests opened</text>
+  <text class="number" x="183" y="121">6</text>
+  <text class="label" x="183" y="140">Issues opened</text>
+</svg>
